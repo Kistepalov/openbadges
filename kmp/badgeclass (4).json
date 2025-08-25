@@ -1,0 +1,12 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://raw.githubusercontent.com/Kistepalov/openbadges/main/kmp/badgeclass.json",
+  "name": "Kanban Management Professional (KMP)",
+  "description": "Successfully completed the accredited Kanban University training program and earned the KMP credential.",
+  "image": "https://kanban.university/kuapps/assets/media/landing/svgs/badges/KMP_Badges_LKU_2019.svg",
+  "criteria": {
+    "narrative": "Completion of the Kanban University Kanban Management Professional (KMP) training."
+  },
+  "issuer": "https://raw.githubusercontent.com/Kistepalov/openbadges/main/kmp/issuer.json"
+}

@@ -1,0 +1,9 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Issuer",
+  "id": "https://raw.githubusercontent.com/Kistepalov/openbadges/main/kmp/issuer.json",
+  "name": "Kanban University (self-hosted metadata)",
+  "url": "https://kanban.university",
+  "email": "2970252@gmail.com",
+  "description": "Self-hosted Open Badge metadata for a Kanban University KMP certificate."
+}
