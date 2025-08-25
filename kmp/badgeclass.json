@@ -1,12 +1,12 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "BadgeClass",
-  "id": "https://raw.githubusercontent.com/Kistepalov/openbadges/main/kmp/badgeclass.json",
+  "id": "https://raw.githubusercontent.com/kistepalov/openbadges/main/kmp/badgeclass.json",
   "name": "Kanban Management Professional (KMP)",
   "description": "Successfully completed courses: KDI and KSI",
   "image": "https://kanban.university/kuapps/assets/media/landing/svgs/badges/KMP_Badges_LKU_2019.svg",
   "criteria": {
     "narrative": "Has completed a training program to design, launch, and operate an improvement initiative using the Kanban Method and is accepted by Kanban University as a Kanban Management Professional (KMP)."
   },
-  "issuer": "https://raw.githubusercontent.com/Kistepalov/openbadges/main/kmp/issuer.json"
+  "issuer": "https://raw.githubusercontent.com/kistepalov/openbadges/main/kmp/issuer.json"
 }
