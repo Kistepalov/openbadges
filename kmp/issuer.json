@@ -1,7 +1,7 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "Issuer",
-  "id": "https://raw.githubusercontent.com/Kistepalov/openbadges/main/kmp/issuer.json",
+  "id": "https://raw.githubusercontent.com/kistepalov/openbadges/main/kmp/issuer.json",
   "name": "Kanban University",
   "url": "https://kanban.university",
   "email": "2970252@gmail.com",
