@@ -1,14 +1,14 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "Assertion",
-  "id": "https://kistepalov.github.io/openbadges/kmp/assertion.json",
+  "id": "https://your-domain.github.io/openbadges/kmp/assertion.json",
   "recipient": {
     "type": "email",
     "identity": "2970252@gmail.com",
     "hashed": false
   },
   "issuedOn": "2024-11-01",
-  "badge": "https://kistepalov.github.io/openbadges/kmp/badgeclass.json",
+  "badge": "https://your-domain.github.io/openbadges/kmp/badgeclass.json",
   "verification": {
     "type": "HostedBadge"
   },
