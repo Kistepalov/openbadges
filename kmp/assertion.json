@@ -1,7 +1,7 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "Assertion",
-  "id": "https://kistepalov.io/openbadges/kmp/assertion.json",
+  "id": "https://kistepalov.github.io/openbadges/kmp/assertion.json",
   "recipient": {
     "type": "email",
     "identity": "2970252@gmail.com",
